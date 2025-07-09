@@ -1,164 +1,169 @@
 # Austin Major Vlog Project
 
-## Introduction (1 min)
+## Overview
 
-* Oscillation between black and imagery synced with heartbeat effect (speeding up gradually).
-* Clips:
+This document serves as a comprehensive guide for creating the Austin Major Vlog. Each section includes detailed descriptions, specific instructions, and necessary sources for multiple collaborators.
 
-  * Stage clips
-  * Crowd screaming (stream footage & personal footage)
-  * Mongolz emerging from floor
-  * Crowd reactions
-  * Apeks emerging (avoid climax reveal initially)
-  * "Fuck Apeks" / Vitality signs
-  * Apeks emerges fully from stage (Beauty Feed 2:50:25), music drops, heartbeat stops.
-* Key Apeks audio clip: "ty fuck me?"
-* Longer black screen transition
+## Music Selection
 
-## Act 1: Character & Vlog Intro (2-3 min)
+* Main theme: [Jazz Instrumental "This Land is Your Land"](https://www.youtube.com/watch?v=-9WpkYVXqXc)
 
-* Single clip from office game (mix old/new)
-* Montage intro inspired by [this style](https://www.youtube.com/watch?v=0s-Cvf-8Vlo)
-* Music: [Jazz Instrumental "This Land is Your Land"](https://www.youtube.com/watch?v=-9WpkYVXqXc)
+## Essential References
 
-### Characters:
+* Example (Weapons 1:24)
+* Blast Beauty Feed (full tournament view)
+* Trumpet Guy (specific clip)
 
-* Mike: Ace/gaming highlights
-* Parker: Goofy highlights
-* Rick: Multiple lowlight clips
+---
 
-### Ticket Fumbling Scene:
+## Main Storylines
 
-* Buying tickets on Ticketmaster
-* Multiple card declines, tension buildup
-* Final success: secured last 4 seats together
+* Apeks as villains (particularly against Mongolz)
+* Dumau's remarkable run with Legacy
+* Chinggis Warriors' performance and rivalry with Lynn Vision ("Starry is not a drink")
 
-## Stage 1: Initial Matches (3 min)
+  * Lynn Vision recognized as superior ("goated")
+* Falcons' disappointing performance, Monsey's overhyped reputation
 
-* Cold open: Chinggis Warriors lose game 1 but gain crowd support (announcers hyping them)
-* Lynn Vision vs Legacy (Lynn easy win, Legacy not supposed to be there)
-* Close match: Chinggis vs Legacy, introduce Dumau as GOAT
-* Fluxo vs Chinggis highlight (close map 2 and win)
-* Chinggis vs Lynn Vision rivalry ("Starry is not a drink" & Emilia "THE LION")
+---
 
-  * Only reason Chinggis lost is because Lynn is goated
-* Explicit mention of missed stage 2 pick'em
+## Detailed Scene Breakdown
 
-## Stage 2: Falcons & Legends (3 min)
+### Introduction (1 min)
 
-* Falcons hype, clown on gambling (csroll, Monsey underage gambling jokes)
-* Lynn Vision demolishes Falcons, Monsey "washed" ("Save That Money" Lil Dicky old man Niko)
-* Introduce FaZe, Simple, Elige (North American presence, Karrigan ambulance, Simple XM meme)
-* Legacy 3-0 upset, Dumau wiping FaZe
-* Quick mentions:
+* Oscillating black/image visuals synced to a heartbeat increasing in tempo
+* Clips: stage, crowd screaming (stream and personal footage), Mongolz and Apeks entrances
+* Apeks emerge fully from stage (Blast Beauty Feed: 2:50:25)
+* Key audio: Apeks "ty fuck me?"
+* Transition to black screen with sudden silence
 
-  * VP beats Pain
-  * Pain beats Lynn Vision
-  * Falcons elimination, FaZe step up, Furia beats B8, Lynn beats B8
+### Act 1: Character and Vlog Introduction (2-3 min)
 
-## Stage 3: Vitality’s Dominance (5 min)
+* Initial montage with gameplay clips (style: [example](https://www.youtube.com/watch?v=0s-Cvf-8Vlo))
 
-* Vitality unbeatable hype (YouTubers/news glazing)
-* Apex villain introduction ([source video](https://www.youtube.com/watch?v=uC_dPpjSjWs&t=1039s))
-* Dumau peak moment: Legacy beats Vitality
-* Pain loses to Spirit, FaZe to Aurora, Mongolz to Furia, Lynn beats Liquid
-* Mongolz/Pain advance, VP crazy Dust2 finish
-* Legacy beats Mouz (least likable team)
+  * Mike: Gaming highlights
+  * Parker: Humorous clips
+  * Rick: Lowlight montage
+* Ticketmaster struggle: card declines, tension building, final success with the last 4 seats secured
 
-## Travel Vlog Segment (Pre-Mike) (2 min)
+### Stage 1: Early Matches (3 min)
 
-* Short airport montage, Chicago flight
-* Austin scenic shots, BBQ, margaritas, videoception
+* Chinggis Warriors lose game one but win audience support
+* Highlight Lynn Vision easily defeating Legacy (unexpected presence)
+* Close Chinggis vs Legacy match introducing Dumau
+* Highlight intense Chinggis vs Fluxo match
+* Chinggis vs Lynn Vision rivalry detailed (Starry & Emilia "THE LION")
+* Quick mention of missed stage 2 pick'em
 
-## Tournament Context & History (1-1.5 min)
+### Stage 2: Falcons & Legends (3 min)
 
-* History of Austin Major, quick context (Cloud 9 Boston mention)
-* Cutaways: Big Short/Wolf of Wall Street scenes
+* Falcons hype and parody of gambling promotions (Monsey underage)
+* Lynn Vision dismantles Falcons (Monsey shown as washed, humorous references)
+* Introduction of FaZe, Simple, Elige, North American presence
+* Dumau's Legacy shocks FaZe, brief overview of additional key match outcomes
 
-## Scenic Austin & Mike Intro (1-1.5 min)
+### Stage 3: Vitality’s Dominance & Surprises (5 min)
 
-* Riverwalk, bat bridge, "I’m Batman" meme
-* Mike humorous intro (Super Smash Bros style, weakness peanuts)
-* Transition to game watching, Ropz forehead cam
+* Vitality hype and Apex villain storyline (source video: [here](https://www.youtube.com/watch?v=uC_dPpjSjWs&t=1039s))
+* Legacy (Dumau) major upset against Vitality
+* Detailed coverage of key matches, highlighting dramatic outcomes (VP’s Dust2 finish, Mongolz/Pain advancement)
+* Legacy vs Mouz declared as "least likable team" match
 
-## Detailed Team Profiles
+### Pre-Event Travel Vlog (2 min)
 
-* Vitality (Ropz, Zywoo, Apex detailed history, sweeps, Navi match)
-* Navi (Simple legacy, JL Copenhagen win, Simple’s old team)
-* Mouz, Spirit, Pain, Furia, Mongolz brief overviews
+* Airport montage, scenic Austin views, BBQ, margaritas, videoception
 
-## HLTV Podcast & Pick'em Segment (2-3 min)
+### Tournament History Context (1-1.5 min)
 
-* BBQ/Austin city shots
-* Podcast clips (Dumau yell, pick'em context)
-* Dream sequence (Faze silver/Mongolz gold confusion, "time is a flat circle," Chinggis diamond)
+* Quick historical context of the Austin Major, mentioning iconic moments like Cloud9 Boston
+* Brief humorous cutaways (Big Short, Wolf of Wall Street)
 
-## Moody Center Arrival (1-2 min)
+### Scenic Austin & Mike Introduction (1-1.5 min)
 
-* Wake-up scene, throwing shoe, Moody Center exploration
-* VIP entry (Dell Club, "we are rich")
-* Seats view, "Jim is fat" clip, montage of stream lead-up
+* Riverwalk, bat bridge scenes, "I'm Batman" humor
+* Mike’s introduction (Super Smash Bros style, "weakness: peanuts")
+* Transition into watching games (Ropz forehead cam)
 
-## Tournament Start & Game 1 (Spirit v Mouz) (3 min)
+### Team Profiles
 
-* Charm moments from souvenir packages
-* Valve-made highlight reels ("Ice Cold" highlight)
+* Detailed backgrounds of Vitality players (Zywoo, Ropz, Apex)
+* Navi overview (Simple, JL Copenhagen)
+* Brief mentions of Mouz, Spirit, Pain, Furia, Mongolz
 
-## Game 2 (Pain v Furia) (1-2 min)
+### HLTV Podcast & Pick'em Confusion (2-3 min)
 
-* Pain upset, "Bad Fallen" meme
+* BBQ/austin city clips, podcast highlights (Dumau yell)
+* Humorous dream sequence: Faze silver, Mongolz gold confusion, Chinggis diamond reveal
 
-## Post-Game Moody Center Experience (2 min)
+### Moody Center Arrival & Tournament Start (3-5 min)
 
-* Clearing out Moody, analyst desk cameo, Pokémon cards opening (furret, snorunt)
+* Morning wake-up scene, Dell Club VIP entrance
+* Arena exploration, humorous "Jim is fat" clip, match hype montage
+* Context setting for tournament start, negativity surrounding Mongolz
 
-## Chinggis Poster Scene & River Walk (3 min)
+### Highlighted Matches
 
-* Breakfast city walk, create Chinggis poster
-* Meme cutaway ("Pain relief, Furia needs it")
+* **Spirit vs Mouz (3 min)**: Best highlights (Valve’s "Ice Cold" OT round), souvenir package keychain concept
+* **Pain vs Furia (1-2 min)**: Upset victory with "Bad Fallen" humor
+* **Navi vs Vitality & FaZe vs Mongolz (6 min)**: Apex villain arc, crowd energy, FaZe lowlights, Simple XM moments
 
-## Game 3 (Navi v Vitality) & Game 4 (FaZe v Mongolz) (6 min)
+### Personal Moments & Humor
 
-* Vitality storyline climax, Apex villain, crowd negativity
-* Mongolz upset FaZe, crowd hype, Simple lowlights, Elige 2v1 clutch
+* Moody Center post-match: Analyst desk cameo, Pokémon pack opening
+* Chinggis poster creation scene, humorous meme transitions ("pain relief")
+* Mr. Matt’s comedic arrival, heart-to-heart moment, nostalgia montage
+* Nightlife humor: Dancing, "pie" debate, humorous text interaction with Mike
 
-## Mr. Matt’s Arrival & Night Out (4-5 min)
+### Semifinals & Finals (8-10 min)
 
-* Heart-to-heart Matt intro (Smash Bros)
-* Nostalgia montage, humorous nightlife events (Mike text ROTATO meme, dancing, pouring water on Matt)
+* Dependent on additional footage from collaborators (Parker, Mike)
+* Final entry excitement, humorous pre-championship showmatch moments
+* Vitality vs Mongolz detailed breakdown, trumpet guy reference, Apex vs Karrigan detailed stat comparison
 
-## Semifinals & Finals Intro
+### Championship Conclusion & Celebrations (5-7 min)
 
-* TBD, Parker/Mike footage dependency
+* Emotional victory showcase for Vitality, Apex humorous trophy moment
+* Chinggis diamond poster reveal prank, scooter ride, comedic nightlife sequences
 
-## Finals & Showmatch (Vitality v Mongolz) (8-9 min total)
+### Closing & Credits (2-3 min)
 
-* Mongolz underdog storyline
-* Apex finals dominance, Inferno detailed play-by-play, trumpet guy moment (Mike mocking)
-* Explicit comparison of Apex vs Karrigan stats, "Cloud 9 Boston" reference
+* Morning recap, humorous "Austin isn’t real" commentary
+* Short credit montage (Erik, Parker, Mike, Matt, Mason)
+* Fade to black transition
 
-## Post-Championship Reflections & Night Out (4-5 min)
+### Final Humorous Clip (10 sec)
 
-* Chinggis diamond poster reactions, scooter rides, nightlife humor
+* Parker humorously doubting "East Side Pies" authenticity
 
-## Closing & Credits (3 min)
+---
 
-* Recap morning, credits, "Austin isn’t real"
+## Actionable Task List
 
-## Final Humorous Clip (10 sec)
+### Pre-production
 
-* Parker's disbelief at East Side Pies
+* [ ] Confirm scene order and timings
+* [ ] Verify all needed footage availability (personal, streams, Valve highlights)
+* [ ] Obtain necessary demos and clips
+* [ ] Coordinate music licensing
 
-## Notes/Sources (DO NOT REMOVE)
+### Production
 
-* Jazz Instrumental "This Land is Your Land" [link](https://www.youtube.com/watch?v=-9WpkYVXqXc)
-* Beauty Feed: Full tournament view
-* Trumpet guy specific clip reference
-* Example (weapons 1:24)
+* [ ] Record voiceovers and narration
+* [ ] Create Chinggis and Lynn Vision posters
+* [ ] Capture additional B-roll (Austin scenery, Moody Center)
 
-## Total Length
+### Post-production
 
-\~57 min (consider slight trim for pacing)
+* [ ] Initial rough edit per scene
+* [ ] Synchronize audio (crowd, commentary, voiceovers)
+* [ ] Integrate humor sequences and special effects (dream sequences, heartbeat visual/audio)
+* [ ] Finalize and review rough cut
+* [ ] Complete audio mixing and color grading
+
+## Total Estimated Length
+
+Approximately 60 minutes, subject to slight adjustments for pacing.
+
 
 
 ---
