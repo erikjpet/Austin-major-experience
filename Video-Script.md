@@ -40,7 +40,9 @@
 * Close match: Chinggis vs Legacy, introduce Dumau as GOAT
 * Fluxo vs Chinggis highlight (close map 2 and win)
 * Chinggis vs Lynn Vision rivalry ("Starry is not a drink" & Emilia "THE LION")
-* Brief mention of missed stage 2 pick'em
+
+  * Only reason Chinggis lost is because Lynn is goated
+* Explicit mention of missed stage 2 pick'em
 
 ## Stage 2: Falcons & Legends (3 min)
 
@@ -66,7 +68,7 @@
 ## Travel Vlog Segment (Pre-Mike) (2 min)
 
 * Short airport montage, Chicago flight
-* Austin scenic shots, BBQ, margaritas
+* Austin scenic shots, BBQ, margaritas, videoception
 
 ## Tournament Context & History (1-1.5 min)
 
@@ -76,25 +78,25 @@
 ## Scenic Austin & Mike Intro (1-1.5 min)
 
 * Riverwalk, bat bridge, "I’m Batman" meme
-* Mike humorous intro (Super Smash Bros style)
+* Mike humorous intro (Super Smash Bros style, weakness peanuts)
 * Transition to game watching, Ropz forehead cam
 
 ## Detailed Team Profiles
 
-* Vitality (Ropz, Zywoo, Apex detailed history)
-* Navi (Simple legacy, JL Copenhagen win)
+* Vitality (Ropz, Zywoo, Apex detailed history, sweeps, Navi match)
+* Navi (Simple legacy, JL Copenhagen win, Simple’s old team)
 * Mouz, Spirit, Pain, Furia, Mongolz brief overviews
 
 ## HLTV Podcast & Pick'em Segment (2-3 min)
 
-* BBQ/austin city shots
+* BBQ/Austin city shots
 * Podcast clips (Dumau yell, pick'em context)
-* Dream sequence (Faze silver/Mongolz gold confusion)
+* Dream sequence (Faze silver/Mongolz gold confusion, "time is a flat circle," Chinggis diamond)
 
 ## Moody Center Arrival (1-2 min)
 
-* Wake-up scene, Moody Center exploration
-* VIP entry (Dell Club)
+* Wake-up scene, throwing shoe, Moody Center exploration
+* VIP entry (Dell Club, "we are rich")
 * Seats view, "Jim is fat" clip, montage of stream lead-up
 
 ## Tournament Start & Game 1 (Spirit v Mouz) (3 min)
@@ -108,7 +110,7 @@
 
 ## Post-Game Moody Center Experience (2 min)
 
-* Clearing out Moody, analyst desk cameo, Pokémon cards opening
+* Clearing out Moody, analyst desk cameo, Pokémon cards opening (furret, snorunt)
 
 ## Chinggis Poster Scene & River Walk (3 min)
 
@@ -117,13 +119,13 @@
 
 ## Game 3 (Navi v Vitality) & Game 4 (FaZe v Mongolz) (6 min)
 
-* Vitality storyline climax, Apex villain
-* Mongolz upset FaZe, crowd hype, Simple lowlights
+* Vitality storyline climax, Apex villain, crowd negativity
+* Mongolz upset FaZe, crowd hype, Simple lowlights, Elige 2v1 clutch
 
 ## Mr. Matt’s Arrival & Night Out (4-5 min)
 
 * Heart-to-heart Matt intro (Smash Bros)
-* Nostalgia montage, humorous nightlife events (Mike text ROTATO meme)
+* Nostalgia montage, humorous nightlife events (Mike text ROTATO meme, dancing, pouring water on Matt)
 
 ## Semifinals & Finals Intro
 
@@ -132,8 +134,8 @@
 ## Finals & Showmatch (Vitality v Mongolz) (8-9 min total)
 
 * Mongolz underdog storyline
-* Apex finals dominance, Inferno detailed play-by-play, trumpet guy moment
-* Compare Apex vs Karrigan, "Cloud 9 Boston" reference
+* Apex finals dominance, Inferno detailed play-by-play, trumpet guy moment (Mike mocking)
+* Explicit comparison of Apex vs Karrigan stats, "Cloud 9 Boston" reference
 
 ## Post-Championship Reflections & Night Out (4-5 min)
 
@@ -147,8 +149,6 @@
 
 * Parker's disbelief at East Side Pies
 
----
-
 ## Notes/Sources (DO NOT REMOVE)
 
 * Jazz Instrumental "This Land is Your Land" [link](https://www.youtube.com/watch?v=-9WpkYVXqXc)
@@ -159,6 +159,7 @@
 ## Total Length
 
 \~57 min (consider slight trim for pacing)
+
 
 ---
 
