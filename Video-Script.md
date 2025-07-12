@@ -288,7 +288,7 @@ video of pouring water on matt
 
 we love you mr matt
 
-## Semifinals & Finals Intro
+## ----- Semifinals & Finals Intro
 
 * TBD, Parker/Mike footage dependency
 I have no clue what this will even be. need to rely on footage from parker and mike...
@@ -412,14 +412,14 @@ me, parker mike matt mason
 
 fade to black
 
-##----- full FAZE FILVER VITALITY GOLD end scene
+## ----- full FAZE FILVER VITALITY GOLD end scene
 2 min
 
 speaks for itself...
 TODO: GET FOOTAGE OFF vcr camera
 
 
-##------ FINAL FUNNY east side pies clip
+## ------ FINAL FUNNY east side pies clip
 10 seconds
 
 parker saying its not real
